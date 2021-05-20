@@ -1,3 +1,5 @@
+@file:Suppress("Annotator")
+
 package com.cendekia.movieapp.maps
 
 import android.content.Intent

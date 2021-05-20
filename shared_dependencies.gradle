@@ -19,6 +19,4 @@ dependencies {
     implementation "org.koin:koin-android-viewmodel:$koin_version"
 
     implementation "com.airbnb.android:lottie:$lottieVersion"
-
-    debugImplementation "com.squareup.leakcanary:leakcanary-android:$leakcanary"
 }

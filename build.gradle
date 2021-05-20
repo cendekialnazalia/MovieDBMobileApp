@@ -26,7 +26,7 @@ buildscript {
 
     ext.koin_version = "2.1.6"
     ext.lottieVersion = "3.4.0"
-    ext.leakcanary = "2.4"
+    ext.leakcanary = "2.7"
 
     repositories {
         google()
